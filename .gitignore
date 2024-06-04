@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Tic-Tac-Toe with AI (Java)/*
+!/Tic-Tac-Toe with AI (Java)/task/
+/Tic-Tac-Toe with AI (Java)/task/*
+!/Tic-Tac-Toe with AI (Java)/task/src
+
+# Project exclude paths
+/Topics/Errors in programs/Fix the program/out/
+/Topics/Errors in programs/Fix the program/out/production/classes/
